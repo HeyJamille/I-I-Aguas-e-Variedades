@@ -1,4 +1,3 @@
-import React from 'react';
 import { DollarSign, Package, TrendingUp, AlertTriangle, ShoppingBag, Calendar } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';
 import { StatCard } from './StatCard';

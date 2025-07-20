@@ -1,7 +1,6 @@
-import React, { useState } from 'react';
-import { Search, Filter, Calendar } from 'lucide-react';
+import { useState } from 'react';
+import { Search, Calendar } from 'lucide-react';
 import { useApp } from '../../contexts/AppContext';
-import { Sale } from '../../types';
 
 export function SalesList() {
   const { sales } = useApp();

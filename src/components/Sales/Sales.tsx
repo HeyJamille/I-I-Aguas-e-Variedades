@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Plus, History } from 'lucide-react';
 import { SaleForm } from './SaleForm';
 import { SalesList } from './SalesList';
